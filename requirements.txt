@@ -1,0 +1,7 @@
+torch
+gymnasium[box2d]
+numpy
+matplotlib
+imageio
+pandas
+swig
