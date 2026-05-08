@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.ipynb_checkpoints/
+*.pth
+*.mp4
+checkpoints/
+.DS_Store
+Thumbs.db
